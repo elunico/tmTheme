@@ -250,7 +250,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#00118F</string>
+				<string>#008040</string>
 			</dict>
 		</dict>
 		<dict>
@@ -356,19 +356,6 @@
 			<dict>
 				<key>foreground</key>
 				<string>#0073D7</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>punctuations</string>
-			<key>scope</key>
-			<string>punctuation.separator.key-value, punctuation.section.array, punctuation.separator.variable, punctuation.separator.inheritance, </string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
-				<key>foreground</key>
-				<string>#000000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -486,7 +473,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string></string>
 			</dict>
 		</dict>
 		<dict>
